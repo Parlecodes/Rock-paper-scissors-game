@@ -1,5 +1,3 @@
-Sure, here is the updated README reflecting the file name `main.cpp`:
-
 # Rock-Paper-Scissors Game
 
 This is a simple Rock-Paper-Scissors game implemented in C++. You play against the computer, and the game keeps track of the scores.
